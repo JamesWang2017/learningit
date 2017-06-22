@@ -1,0 +1,2 @@
+This is a delete file to test how to delete git files.
+This is a good idea.
