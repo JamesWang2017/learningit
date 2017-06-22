@@ -1,4 +1,4 @@
-This is a beautiful day! is it?
+This is a bad day!
 
 Git is a distributed version control system.
 Git is free software.
