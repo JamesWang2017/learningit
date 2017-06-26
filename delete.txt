@@ -1,2 +1,3 @@
-This is a delete file to test how to delete git files.
+This is a delete file to test how to delete git files.This is a good day!
 This is a good idea.
+Yes i love it!
